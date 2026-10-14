@@ -1,6 +1,6 @@
 # 👋 Привет! Я Роман (Sokolpr / peanutsh)
 
-**Backend-разработчик Java** · Учусь в Школе 21
+**Backend-разработчик Java** ·Выпускник Школы 21
 
 📍 Челябинск, Россия · Открыт к переезду и удалённой работе  
 📬 Telegram: [@soko1pr](https://t.me/soko1pr) · Email: [Peanutsh@yandex.ru](mailto:Peanutsh@yandex.ru)
